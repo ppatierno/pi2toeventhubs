@@ -1,4 +1,4 @@
-# pi2toeventhubs
+# Pi2 To Event Hubs
 
 **Telemtry from Windows 10 IoT Core on Raspberry Pi 2 to Azure (Event Hubs)**
 
